@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HughesNet Multichannel</string>
+    <string name="name">S+0-9</string>
+    <string name="status_200">OK</string>
+    <string name="status_404">NOT FOUND</string>
+    <string name="address">address</string>
+    <string name="gratitude">Welcome</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>Bangladesh</item>
+        <item>Sri Lanka</item>
+    </string-array>
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>
